@@ -1,0 +1,11 @@
+{
+  "known_classes": [
+    "crazing",
+    "inclusion",
+    "patches",
+    "pitted_surface",
+    "rolled-in_scale"
+  ],
+  "held_out_class": "scratches",
+  "unknown_threshold": 0.17146961987018586
+}
